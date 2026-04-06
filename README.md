@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF1493&center=true&vCenter=true&width=500&lines=3rd+Year+Software+Engineering+Student;Future+Full-Stack+Developer;Passionate+about+UI/UX+Design;Learning+something+new+every+day!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF1493&center=true&vCenter=true&width=500&lines=  3rd+Year+Software+Engineering+Student;Future+Full-Stack+Developer;Passionate+about+UI/UX+Design;Learning+something+new+every+day!" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -15,9 +15,9 @@
 ### 🌸 About Me
 <img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHp1ZHZ1Z3ZycTVsZnd3ZWZ3Zndmd2Z3Zndmd2Z3Zndmd2Z3Zndmd2Z3Zndm&ep=v1_gifs_search&rid=giphy.gif" width="250" />
 
-- ✨ **I’m currently focusing on:** Mastering Python & Data Structures.
+- ✨ **I’m currently focusing on:** full stack web developement.
 - 🔭 **Working on:** Building a professional Payroll System.
-- 🌱 **Learning:** React, Node.js, and Cloud Computing.
+- 🌱 **Learning:** React, Node.js, and typescript,php,express.
 - 💬 **Ask me about:** Python, Web Dev, or just say hi!
 - 📫 **How to reach me:** [bezizola8@gmail.com](mailto:bezizola8@gmail.com)
 
