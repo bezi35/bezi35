@@ -4,7 +4,7 @@
 
 <div align="center">
   <h1>👋 Welcome to my Coding Space!</h1>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=FF1493&center=true&vCenter=true&width=600&lines=3rd+Year+Software+Student;Full-Stack+Developer+Aspirant;UI/UX+Enthusiast;Python+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=FF1493&center=true&vCenter=true&width=600&lines=Software+Student;Full-Stack+Developer+Aspirant;UI/UX+Enthusiast;Python+Developer" alt="Typing SVG" />
 </div>
 
 <br />
