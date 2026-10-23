@@ -14,7 +14,7 @@
     <td width="50%">
       <h3>🌸 About Me</h3>
       <p>
-        I am a <b>3rd Year Software Engineering Student</b> based in Ethiopia. 
+        I am a <b> Software Engineering Student</b> based in Ethiopia. 
         I love building creative and functional software solutions. 
         Currently focused on Python automation and modern Web Technologies.
       </p>
