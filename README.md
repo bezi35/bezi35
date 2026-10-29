@@ -1,27 +1,26 @@
-# Hi, I'm Bezawite Zelalem 👋
+<div align="center">
 
-### Full-Stack Software Engineer • Senior Student
-I craft elegant, scalable, and high-performance web applications with modern engineering principles.
+  <h1>Bezawite Zelalem</h1>
+  <p><strong>Full-Stack Software Engineer • Senior Student</strong></p>
+  <p>Architecting scalable web applications and distributed systems with modern architectures.</p>
 
----
+  <a href="https://modern-portfolio-ac7b9b.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/Live_Portfolio-Visit_Platform-7c3aed?style=for-the-badge&logo=react&logoColor=white" alt="Live Portfolio" />
+  </a>
+  <a href="mailto:bezizola8@gmail.com">
+    <img src="https://img.shields.io/badge/Contact-Get_In_Touch-db2777?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact" />
+  </a>
 
-### 🌐 My Live Portfolio
-👉 **[Click Here to Explore My Portfolio & QR System](https://modern-portfolio-ac7b9b.netlify.app)**
+</div>
 
----
+<br />
 
-### 🛠️ Technical Stack
-- **Frontend:** React.js, JavaScript (ES6+), Tailwind CSS, Vite
-- **Backend:** Node.js, Express.js, REST APIs
-- **Databases:** MongoDB Atlas, MySQL
-- **Tools:** Git, GitHub, Postman, Netlify, Render
-
----
-
-### 📬 Get In Touch
-- **Email:** [bezizola8@gmail.com](mailto:bezizola8@gmail.com)
-- **LinkedIn:** [Bezawite Zelalem](https://linkedin.com/in/bezawite-zelalem)
-- **Location:** Addis Ababa, Ethiopia
-
----
-*“Clean code always looks like it was written by someone who cares.”*
+```json
+{
+  "engineer": "Bezawite Zelalem",
+  "role": "Full-Stack Software Engineer",
+  "standing": "Senior Software Engineering Student (4th Year)",
+  "ecosystem": ["MERN Stack", "RESTful Architecture", "Cloud Deployments"],
+  "principles": ["Clean Architecture", "Type Safety", "Performance Optimization", "Scalability"],
+  "location": "Addis Ababa, Ethiopia"
+}
