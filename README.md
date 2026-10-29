@@ -23,7 +23,7 @@
     </a>
   </p>
 
-  <!-- 4. Profile Views Badge -->
+  <!-- 4. Status Badges -->
   <p>
     <img src="https://komarev.com/ghpvc/?username=bezi35&label=PROFILE+VIEWS&color=ff2a85&style=flat-square" alt="Profile Views" />
     <img src="https://img.shields.io/badge/Status-Available_for_Internship-10b981?style=flat-square" />
@@ -61,30 +61,9 @@
 
 <div align="center">
 
-  <!-- Stats & Streak Side by Side -->
-  <img src="https://github-readme-stats.vercel.app/api?username=bezi35&show_icons=true&theme=synthwave&bg_color=0d1117&title_color=ff2a85&text_color=e2e8f0&icon_color=8b5cf6&border_color=8b5cf6" width="49%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bezi35&theme=synthwave&background=0d1117&ring=ff2a85&fire=ff2a85&currStreakLabel=ff2a85&border=8b5cf6&sideLabels=e2e8f0&sideNums=ffffff" width="49%" alt="GitHub Streak" />
+  <!-- ይሄ 100% የሚሰራው ያማረው Streak Card ብቻ -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bezi35&theme=synthwave&background=0d1117&ring=ff2a85&fire=ff2a85&currStreakLabel=ff2a85&border=8b5cf6&sideLabels=e2e8f0&sideNums=ffffff" width="60%" alt="GitHub Streak" />
 
-  <br /><br />
-
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bezi35&layout=compact&theme=synthwave&bg_color=0d1117&title_color=ff2a85&text_color=e2e8f0&border_color=8b5cf6" width="60%" alt="Top Languages" />
-
-</div>
-
----
-
-### 📈 Contribution Activity Graph (ልክ እንደ ኑረዲን ገጽ)
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bezi35&theme=react-dark&bg_color=0d1117&color=ff2a85&line=8b5cf6&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Graph" />
-</div>
-
----
-
-### 🐍 Contribution Heatmap
-<div align="center">
-  <img src="https://raw.githubusercontent.com/bezi35/bezi35/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%" />
 </div>
 
 ---
