@@ -1,70 +1,52 @@
 <div align="center">
 
-  <!-- Elegant Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,19,25&height=180&section=header&text=Bezawite%20Zelalem&fontSize=42&fontColor=f472b6&animation=fadeIn&fontAlignY=45" width="100%"/>
+  <!-- 🌟 ULTRA-MODERN LUXURY TECH BANNER -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=11,18,34,45,16,84&height=220&section=header&text=Bezawite%20Zelalem%20✨&fontSize=48&fontColor=f472b6&animation=fadeIn&fontAlignY=42&desc=Senior%20Software%20Engineering%20Student%20•%20Full-Stack%20MERN%20Architect&descFontSize=18&descAlignY=65&descColor=cbd5e1" width="100%"/>
 
-  <h3>✨ Full-Stack Software Engineer • 4th Year Senior</h3>
-  
-  <p>
-    <em>Architecting scalable web systems with engineering discipline and modern aesthetics.</em>
-  </p>
+  <br />
 
-  <!-- 🌟 LIVE PORTFOLIO HIGHLIGHT BUTTON -->
-  <p>
-    <a href="https://modern-portfolio-ac7b9b.netlify.app" target="_blank">
-      <img src="https://img.shields.io/badge/🌐_EXPLORE_MY_LIVE_PORTFOLIO-f472b6?style=for-the-badge&logoColor=white&labelColor=0b0f19" alt="Live Portfolio" />
-    </a>
-  </p>
+  <!-- 🚀 DYNAMIC LIVE PORTFOLIO BADGE -->
+  <a href="https://modern-portfolio-ac7b9b.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_EXPLORE_MY_LIVE_PORTFOLIO-Visit_Site-f472b6?style=for-the-badge&logo=react&logoColor=white&labelColor=0b0f19" alt="Live Portfolio" />
+  </a>
+  <a href="https://github.com/bezi35?tab=repositories">
+    <img src="https://img.shields.io/badge/📂_ALL_PROJECTS-Code_Repositories-a855f7?style=for-the-badge&logo=github&logoColor=white&labelColor=0b0f19" alt="Repositories" />
+  </a>
 
-  <!-- Social Badges (Clean & Soft) -->
-  <p>
-    <a href="https://linkedin.com/in/bezawite-zelalem" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
-    </a>
-    <a href="mailto:bezizola8@gmail.com">
-      <img src="https://img.shields.io/badge/Email-bezizola8@gmail.com-c084fc?style=flat-square&logo=gmail&logoColor=white" />
-    </a>
-    <a href="https://modern-portfolio-ac7b9b.netlify.app" target="_blank">
-      <img src="https://img.shields.io/badge/QR_Portfolio-Active-10b981?style=flat-square&logo=render&logoColor=white" />
-    </a>
-  </p>
+  <br /><br />
+
+  <!-- Social Badges Row -->
+  <a href="https://linkedin.com/in/bezawite-zelalem" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:bezizola8@gmail.com">
+    <img src="https://img.shields.io/badge/Email-bezizola8@gmail.com-ea4335?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://modern-portfolio-ac7b9b.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio_Status-Online-10b981?style=flat-square&logo=netlify&logoColor=white" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=bezi35&label=PROFILE+VIEWS&color=f472b6&style=flat-square" alt="Profile Views" />
 
 </div>
 
 ---
 
-### 🌸 About Me
-- 🎓 **Senior Student:** 4th-Year Software Engineering student passionate about clean architecture and robust systems.
-- 💻 **Core Focus:** Full-Stack development in the **MERN** ecosystem (MongoDB, Express, React, Node.js).
-- 🎨 **Design Philosophy:** Clean code, high-performance web engineering, and elegant glassmorphism interfaces.
-- 🎯 **Current Goal:** Seeking high-impact Software Engineering roles and internships.
-
----
-
-### 🛠️ Core Engineering Stack
-
+### 🏆 GitHub Trophies & Achievements
 <div align="center">
-
-| Domain | Technologies |
-| :--- | :--- |
-| **Frontend** | `React.js` `JavaScript (ES6+)` `Tailwind CSS` `HTML5/CSS3` `Vite` |
-| **Backend** | `Node.js` `Express.js` `RESTful APIs` `JWT Auth` |
-| **Databases** | `MongoDB` `MongoDB Atlas` `Mongoose` `MySQL` |
-| **DevOps & Tools** | `Git` `GitHub` `Postman` `Render` `Netlify` `VS Code` |
-
+  <img src="https://github-profile-trophy.vercel.app/?username=bezi35&theme=onedark&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" width="100%" alt="Beza Trophies" />
 </div>
 
 ---
 
-### 📊 GitHub Engineering Metrics
+### 🌸 About Me & Engineering Philosophy
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bezi35&show_icons=true&theme=radical&bg_color=0b0f19&title_color=f472b6&text_color=94a3b8&icon_color=c084fc&border_color=2e1065&hide_border=false" height="150" alt="Beza's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bezi35&layout=compact&theme=radical&bg_color=0b0f19&title_color=f472b6&text_color=94a3b8&border_color=2e1065&hide_border=false" height="150" alt="Top Languages" />
-</div>
-
-<br />
-
-<div align="center">
-  <sub>Designed with elegance & code craftsmanship by <b>Bezawite Zelalem</b> ✨</sub>
-</div>
+```javascript
+const engineer = {
+  name: "Bezawite Zelalem",
+  academicStanding: "4th-Year Senior Software Engineering Student",
+  specialization: ["Full-Stack Architecture", "MERN Stack", "System Design"],
+  currentFocus: "Architecting enterprise web systems with high performance & clean code",
+  aspirations: "Contributing to mission-critical engineering teams and internships",
+  passions: ["Clean Code", "Design Systems", "Scalable Microservices", "Continuous Learning"],
+  contact: "bezizola8@gmail.com"
+};
