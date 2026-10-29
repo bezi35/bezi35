@@ -1,64 +1,100 @@
 <div align="center">
 
-  <!-- 🌌 1. ULTRA-WIDE LUXURY CYBER-ROSE BANNER -->
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=255,42,133,139,92,246,13,17,23&height=260&section=header&text=Bezawite%20Zelalem%20✨&fontSize=56&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Senior%20Software%20Engineer%20•%20Full-Stack%20Systems%20Architect&descFontSize=22&descAlignY=64&descColor=fbcfe8" width="100%"/>
+  <!-- 1. ዋናው ባነር -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=255,42,133,139,92,246,13,17,23&height=220&section=header&text=Bezawite%20Zelalem&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Senior%20Software%20Engineer%20•%20Full-Stack%20MERN&descFontSize=20&descAlignY=65&descColor=fbcfe8" width="100%"/>
 
-  <br />
-
-  <!-- ✍️ 2. GLOWING MULTI-LINE TYPING ANIMATION -->
+  <!-- 2. እየተጻፈ የሚቀያየር ማዕረግ -->
   <a href="https://modern-portfolio-ac7b9b.netlify.app">
-    <img src="https://readme-typing-svg.demolab.com?font=Syne&weight=700&size=25&duration=2500&pause=1000&color=FF2A85&center=true&vCenter=true&width=650&lines=Full-Stack+Software+Engineer;Senior+SE+Student+(Class+of+2026);MERN+Stack+Architecture+Expert;Building+Scalable+High-Performance+Web;Crafting+Luxury+Modern+Interfaces" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=1000&color=FF2A85&center=true&vCenter=true&width=600&lines=Full-Stack+Software+Engineer;Senior+SE+Student+(Class+of+2026);MERN+Stack+Architecture;Building+Scalable+Modern+Systems" alt="Typing SVG" />
   </a>
 
   <br /><br />
 
-  <!-- 🚀 3. PRIMARY ACTION HUB -->
+  <!-- 3. የቀጥታ ፖርትፎሊዮ ትላልቅ በተኖች -->
   <p>
     <a href="https://modern-portfolio-ac7b9b.netlify.app" target="_blank">
-      <img src="https://img.shields.io/badge/🌐_LAUNCH_MY_LIVE_PORTFOLIO-ff2a85?style=for-the-badge&logo=rocket&logoColor=white&labelColor=161b22" alt="Live Portfolio" />
-    </a>
-    <a href="mailto:bezizola8@gmail.com">
-      <img src="https://img.shields.io/badge/📬_DIRECT_INQUIRY-8b5cf6?style=for-the-badge&logo=minutemailer&logoColor=white&labelColor=161b22" alt="Contact" />
+      <img src="https://img.shields.io/badge/🌐_EXPLORE_MY_LIVE_PORTFOLIO-ff2a85?style=for-the-badge&logo=rocket&logoColor=white&labelColor=161b22" alt="Live Portfolio" />
     </a>
     <a href="https://linkedin.com/in/bezawite-zelalem" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn_Profile-0ea5e9?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=161b22" alt="LinkedIn" />
+      <img src="https://img.shields.io/badge/LinkedIn-0ea5e9?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=161b22" alt="LinkedIn" />
+    </a>
+    <a href="mailto:bezizola8@gmail.com">
+      <img src="https://img.shields.io/badge/Email_Me-8b5cf6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=161b22" alt="Contact" />
     </a>
   </p>
 
-  <!-- 📊 4. STATUS & VISITOR BADGES -->
+  <!-- 4. Profile Views Badge -->
   <p>
     <img src="https://komarev.com/ghpvc/?username=bezi35&label=PROFILE+VIEWS&color=ff2a85&style=flat-square" alt="Profile Views" />
-    <img src="https://img.shields.io/badge/Academic_Standing-4th_Year_Senior-8b5cf6?style=flat-square&logo=academia&logoColor=white" />
-    <img src="https://img.shields.io/badge/Opportunity_Status-Open_For_Internships-10b981?style=flat-square&logo=github&logoColor=white" />
-    <img src="https://img.shields.io/badge/Environment-Linux_%2F_Cloud-f59e0b?style=flat-square&logo=linux&logoColor=white" />
+    <img src="https://img.shields.io/badge/Status-Available_for_Internship-10b981?style=flat-square" />
   </p>
 
 </div>
 
 ---
 
-### 🏆 5. Global GitHub Trophies & Milestones
+### 🌸 About Me
+
+- 🎓 **Senior Software Engineering Student** (4th Year, Graduating Class of 2026).
+- 💻 **Specializing in Full-Stack Web Architecture** with the **MERN** stack (MongoDB, Express, React, Node.js).
+- 🚀 **Production Application:** Built an ultra-modern developer portfolio featuring cloud database persistence and dynamic QR routing.
+- 🎯 **Aspirations:** Seeking high-impact Software Engineering roles, collaborative teams, and internships.
+- ⚡ **Engineering Principles:** Clean code, modular design, fast load performance, and intuitive UI aesthetics.
+
+---
+
+### 🛠️ Tech Stack & Arsenal
+
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bezi35&theme=discord&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" width="100%" alt="Beza Trophies" />
+
+| Area | Technologies |
+| :--- | :--- |
+| **Frontend** | <img src="https://skillicons.dev/icons?i=react,js,tailwind,html,css,vite" /> |
+| **Backend** | <img src="https://skillicons.dev/icons?i=nodejs,express,postman,laravel" /> |
+| **Database & Cloud** | <img src="https://skillicons.dev/icons?i=mongodb,mysql,netlify,render,git,github" /> |
+
 </div>
 
 ---
 
-### 👩‍💻 6. Executive Engineering Profile
+### 📊 GitHub Coding Analytics
 
-```javascript
-const bezawiteZelalem = {
-  identity: "Full-Stack Software Engineer & Tech Innovator",
-  academicJourney: "Bachelor of Science in Software Engineering (Senior / 4th Year)",
-  graduation: "2026",
-  coreSpecialties: [
-    "Full-Stack MERN Engineering (MongoDB, Express, React, Node)",
-    "Distributed Web Applications & RESTful Microservices",
-    "State Management & Component Architecture",
-    "High-Conversion Glassmorphism Design Systems"
-  ],
-  workingPhilosophy: "Write self-documenting code; optimize for maintainability, speed, and security",
-  toolsOfChoice: ["VS Code", "Postman", "Vite", "Git CLI", "Linux Shell"],
-  hobbies: ["Exploring Distributed Systems", "UI Design Trends", "Code Optimization"],
-  currentLocation: "Addis Ababa, Ethiopia"
-};
+<div align="center">
+
+  <!-- Stats & Streak Side by Side -->
+  <img src="https://github-readme-stats.vercel.app/api?username=bezi35&show_icons=true&theme=synthwave&bg_color=0d1117&title_color=ff2a85&text_color=e2e8f0&icon_color=8b5cf6&border_color=8b5cf6" width="49%" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bezi35&theme=synthwave&background=0d1117&ring=ff2a85&fire=ff2a85&currStreakLabel=ff2a85&border=8b5cf6&sideLabels=e2e8f0&sideNums=ffffff" width="49%" alt="GitHub Streak" />
+
+  <br /><br />
+
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bezi35&layout=compact&theme=synthwave&bg_color=0d1117&title_color=ff2a85&text_color=e2e8f0&border_color=8b5cf6" width="60%" alt="Top Languages" />
+
+</div>
+
+---
+
+### 📈 Contribution Activity Graph (ልክ እንደ ኑረዲን ገጽ)
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bezi35&theme=react-dark&bg_color=0d1117&color=ff2a85&line=8b5cf6&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Graph" />
+</div>
+
+---
+
+### 🐍 Contribution Heatmap
+<div align="center">
+  <img src="https://raw.githubusercontent.com/bezi35/bezi35/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%" />
+</div>
+
+---
+
+<div align="center">
+
+  <!-- የታችኛው ባነር -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=255,42,133,139,92,246,13,17,23&height=120&section=footer" width="100%"/>
+
+  <p><em>“First, solve the problem. Then, write the code.”</em></p>
+  <sub>Architected with dedication & elegance by <b>Bezawite Zelalem</b> ✨ • © 2025</sub>
+
+</div>
