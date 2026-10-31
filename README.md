@@ -5,7 +5,7 @@
 
   <!-- 2. Typing SVG -->
   <a href="https://modern-portfolio-ac7b9b.netlify.app">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=1000&color=FF2A85&center=true&vCenter=true&width=600&lines=Full-Stack+Software+Engineer;Senior+SE+Student+(Class+of+2026);MERN+Stack+Architecture;Building+Scalable+Modern+Systems" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=1000&color=FF2A85&center=true&vCenter=true&width=600&lines=Full-Stack+Software+Engineer;Senior+SE+Student;MERN+Stack+Architecture;Building+Scalable+Modern+Systems" alt="Typing SVG" />
   </a>
 
   <br /><br />
