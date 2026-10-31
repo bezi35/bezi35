@@ -35,7 +35,7 @@
 
 ### 🌸 About Me & Engineering Journey
 
-- 🎓 **Academic Standing:** 4th-Year Senior Software Engineering Student (Class of 2026).
+- 🎓 **Academic Standing:** Senior Software Engineering Student (Class of 2026).
 - 💻 **Primary Expertise:** Full-Stack Web Development specializing in the **MERN** ecosystem (MongoDB, Express, React, Node.js).
 - 🚀 **Live Software Project:** Recently architected and deployed a modern interactive portfolio with cloud database persistence and dynamic QR routing.
 - 🎯 **Career Objective:** Seeking software engineering internships and high-impact roles to build scalable digital products.
